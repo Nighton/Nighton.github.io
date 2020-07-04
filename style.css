@@ -1,0 +1,18 @@
+body{
+    margin: ;
+    padding: ;
+    
+}
+h1{
+    text-align: center;
+    border-bottom: thin solid dimgray;
+}
+p{
+    float: left;
+    border: thin solid;
+}
+img{
+    height: 600px;
+    float: right;
+    
+}
